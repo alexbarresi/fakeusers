@@ -1,0 +1,24 @@
+{
+  "name": "usersfakepackage",
+  "version": "1.0.0",
+  "description": "\"A simple fake users package\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Users",
+    "Fake",
+    "User"
+  ],
+  "author": "Carlo Leonardi <carloleonardi83@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbarresi/fakeusers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexbarresi/fakeusers/issues"
+  },
+  "homepage": "https://github.com/alexbarresi/fakeusers#readme"
+}
